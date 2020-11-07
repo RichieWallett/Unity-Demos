@@ -5,3 +5,5 @@
 Here's an overview of the projects and their links.
 
 NB Just a test to make sure all is connected.
+
+* Also connected via VS Code.
