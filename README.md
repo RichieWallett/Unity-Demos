@@ -2,6 +2,6 @@
 
 ### Quick demos using Unity.
 
-Here's an overview of the projects and their linksad.
+Here's an overview of the projects and their links.
 
 NB Just a test
