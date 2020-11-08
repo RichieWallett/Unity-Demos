@@ -10,7 +10,7 @@ Here's an overview of these projects and their links.
 
 ### Ice Shader
 
-![GitHub Logo](/images/logo.png)
+![Link](Ice_Shader_01/Recordings/image_001_0001.png)
 Format: ![Alt Text](url)
 
 To create a simple ice shader using Shader Graph.
