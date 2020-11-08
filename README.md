@@ -4,7 +4,7 @@
 
 ---
 
-# Projects
+## Projects
 
 Here's an overview of these projects and their links.
 
