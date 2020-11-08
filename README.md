@@ -9,8 +9,6 @@
 Here's an overview of these projects and their links.
 
 ### Ice Shader
-https://github.com/RichieWallett/Unity-Demos/tree/main/Ice_Shader_01
+I wannted to create a simple ice shader using Shader Graph.
+[Link to project](https://github.com/RichieWallett/Unity-Demos/tree/main/Ice_Shader_01)
 
-```javascript
-// This is called 'fenced' code
-```
