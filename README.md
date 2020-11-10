@@ -1,6 +1,6 @@
 # Unity-Demos
 
-#### These are quick daily demos, keeping things lean, functional yet beautiful. Here's an overview, of these projects and their links.
+#### These are quick daily demos. Keeping things lean, functional, yet beautiful. Here's an overview, of these projects and their links.
 
 ---
 
