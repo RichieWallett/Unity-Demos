@@ -1,7 +1,7 @@
 # Unity-Demos
 
 ### These are quick daily demos. 
-Keeping things lean, functional, yet beautiful. Here's an overview, of these projects and their links.
+The aim is to keep things lean, functional & beautiful. Here's an overview, of each project and the processes undertaken.
 
 ---
 
