@@ -19,3 +19,12 @@ AIM: To generate amorphous particle behaviours and score sound sympathetic to th
 
 AIM: To create a simple ice shader, using Shader Graph.
 [Link to project](https://github.com/RichieWallett/Unity-Demos/tree/main/Ice_Shader_01)
+
+---
+
+### Various
+
+![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Various/Screenshots/Unity_R8_Test_00.png)
+
+AIM: Examples of other projects. [Link to projects](https://github.com/RichieWallett/Unity-Demos/tree/main/Various)
+
