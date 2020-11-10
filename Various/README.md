@@ -12,5 +12,3 @@ Part of [100 Days of code](https://twitter.com/graphicboutique) Twitter series.
 ![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Various/Screenshots/Unity_R8_Test_02.jpg)
 ![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Various/Screenshots/Unity_R8_Test_03.png)
 [Watch Vimeo](https://vimeo.com/440934778)
-
-Various/Screenshots/Unity_R8_Test_00.png
