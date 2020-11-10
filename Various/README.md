@@ -1,4 +1,4 @@
-## Various experiments
+## Various
 
 Part of [100 Days of code](https://twitter.com/graphicboutique) Twitter series.
 
