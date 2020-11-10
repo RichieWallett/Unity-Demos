@@ -24,8 +24,7 @@ AIM: To create a simple ice shader, using Shader Graph.
 
 ### Various
 
-![Link](Ice_Shader_01/Recordings/image_001_0001.png)
+![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Various/Screenshots/Unity_R8_Test_00.png)
 
-AIM: Showcase other samples of projects.
+AIM: Showcase other samples of projects. [Link to project](https://github.com/RichieWallett/Unity-Demos/tree/main/Various)
 
-[Link to project](https://github.com/RichieWallett/Unity-Demos/tree/main/Various)
