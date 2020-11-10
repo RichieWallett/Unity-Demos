@@ -1,6 +1,6 @@
 ## Watch (Vimeo)
 
-[![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Particles_Curl_02/Screenshots/00_Screenshot_Par-Cur_2020-10-29.png)](https://vimeo.com/473900052 "Alt text")
+[![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Particles_Curl_02/Screenshots/00_Screenshot_Par-Cur_2020-10-29.png)](https://vimeo.com/473900052 "Alt text"){:target="_blank" rel="noopener"}
 
 ## Process
 ![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Particles_Curl_02/Screenshots/01_Screenshot_Par-Cur_2020-10-29.png)
