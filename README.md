@@ -30,7 +30,9 @@ AIM: Examples of other projects. [Link to projects](https://github.com/RichieWal
 
 ---
 
+### Modeling
+
 ![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Doughnut/Renders/Screenshots/06_Screenshot_Dou_2020-11-14.png)
 
-AIM: To demostrate some simple fundementals of 3D [Link to projects](https://github.com/RichieWallett/Unity-Demos/tree/main/Doughnut)
+AIM: Demonstrate simple fundamentals of 3D (Blender) [Link to projects](https://github.com/RichieWallett/Unity-Demos/tree/main/Doughnut)
 
