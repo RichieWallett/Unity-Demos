@@ -36,3 +36,11 @@ AIM: Examples of other projects. [Link to projects](https://github.com/RichieWal
 
 AIM: Demonstrate simple fundamentals of 3D (Blender) [Link to projects](https://github.com/RichieWallett/Unity-Demos/tree/main/Doughnut)
 
+---
+
+### Materials
+
+![Link]
+
+AIM: Exploring materials (Blender) [Link to projects](https://github.com/RichieWallett/Unity-Demos/tree/main/Coffeecup)
+
