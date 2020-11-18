@@ -40,7 +40,7 @@ AIM: Demonstrate simple fundamentals of 3D (Blender) [Link to projects](https://
 
 ### Materials
 
-![Link]
+![Link](Coffeecup/Renders/Screenshots/Screenshot 2020-11-16 at 12.52.52.png)
 
 AIM: Exploring materials (Blender) [Link to projects](https://github.com/RichieWallett/Unity-Demos/tree/main/Coffeecup)
 
