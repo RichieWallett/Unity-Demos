@@ -9,6 +9,15 @@ The aim is to keep things lean, functional & beautiful. Here's an overview of ea
 
 ![Link](Particles_Curl_02/Screenshots/00_Screenshot_Par-Cur_2020-10-29.png)
 
+AIM: To create a 3D model, from reference images only.  [Link to project](https://github.com/RichieWallett/Unity-Demos/tree/main/Adam-Audio)
+
+
+---
+
+### Curling Particles 
+
+![Link](Particles_Curl_02/Screenshots/00_Screenshot_Par-Cur_2020-10-29.png)
+
 AIM: To generate amorphous particle behaviours and score sound sympathetic to this. [Link to project](https://github.com/RichieWallett/Unity-Demos/tree/main/Particles_Curl_02)
 
 ---
