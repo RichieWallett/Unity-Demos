@@ -5,7 +5,7 @@ The aim is to keep things lean, functional & beautiful. Here's an overview of ea
 
 ---
 
-### Curling Particles 
+### Modeling Sound 
 
 ![Link](Particles_Curl_02/Screenshots/00_Screenshot_Par-Cur_2020-10-29.png)
 
