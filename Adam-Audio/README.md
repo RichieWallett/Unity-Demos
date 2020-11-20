@@ -9,4 +9,4 @@
 ![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Adam-Audio/Renders/Screenshots/06_Screenshot_Adam_2020-11-17.png)
 ![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Adam-Audio/Renders/Screenshots/07_Screenshot_Adam_2020-11-17.png)
 ![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Adam-Audio/Renders/Screenshots/08_Screenshot_Adam_2020-11-17.png)
-![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Adam-Audio/Renders/Screenshots/09_Screenshot_Adam_2020-11-17.png)
+![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Adam-Audio/Renders/Screenshots/09_Adam-Audio_T5V_08-Denoised.png)
