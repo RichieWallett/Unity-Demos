@@ -14,19 +14,19 @@ AIM: To create a 3D model, from reference images only.  [Link to project](https:
 
 ---
 
+### Various Dailies
+
+![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Various/Screenshots/Unity_R8_Test_00.png)
+
+AIM: Examples of other projects. [Link to projects](https://github.com/RichieWallett/Unity-Demos/tree/main/Various)
+
+---
+
 ### Curling Particles 
 
 ![Link](Particles_Curl_02/Screenshots/00_Screenshot_Par-Cur_2020-10-29.png)
 
 AIM: To generate amorphous particle behaviours and score sound sympathetic to this. [Link to project](https://github.com/RichieWallett/Unity-Demos/tree/main/Particles_Curl_02)
-
----
-
-### Various
-
-![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Various/Screenshots/Unity_R8_Test_00.png)
-
-AIM: Examples of other projects. [Link to projects](https://github.com/RichieWallett/Unity-Demos/tree/main/Various)
 
 ---
 
