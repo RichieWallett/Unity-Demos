@@ -7,7 +7,7 @@ The aim is to keep things lean, functional & beautiful. Here's an overview of ea
 
 ### Modeling Sound 
 
-![Link](Particles_Curl_02/Screenshots/00_Screenshot_Par-Cur_2020-10-29.png)
+![Link](Adam-Audio/Renders/Screenshots/00_Screenshot_Adam_2020-11-17.png)
 
 AIM: To create a 3D model, from reference images only.  [Link to project](https://github.com/RichieWallett/Unity-Demos/tree/main/Adam-Audio)
 
