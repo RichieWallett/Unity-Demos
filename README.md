@@ -7,7 +7,7 @@ The aim is to keep things lean, functional & beautiful. Here's an overview of ea
 
 ### Modeling Sound 
 
-![Link](Adam-Audio/Renders/Screenshots/02_Screenshot_Adam_2020-11-17.png)
+![Link](Adam-Audio/Renders/Screenshots/01_Screenshot_Adam_2020-11-17.png)
 
 AIM: To create a mesh, all materials and textures, from reference images only.  [Link to project](https://github.com/RichieWallett/Unity-Demos/tree/main/Adam-Audio)
 
