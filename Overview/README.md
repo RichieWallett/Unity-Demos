@@ -4,7 +4,7 @@ Here's an overview of the projects I'd like to create, methods to be used and th
 
 ### Links
 
-* https://www.pinterest.co.uk/graphicboutique/games/)
+* https://www.pinterest.co.uk/graphicboutique/games/
 * https://www.pinterest.co.uk/graphicboutique/3d/
 * https://www.pinterest.co.uk/graphicboutique/immersive-vrar/
 * https://www.pinterest.co.uk/graphicboutique/visualisation/
