@@ -1,7 +1,7 @@
 # Unity-Demos
 
-### These are quick daily demos. 
-The aim is to keep things lean, functional & beautiful. Here's an overview of each project and the processes undertaken.
+### These are quick, daily demos. 
+The aim is to keep things lean, functional & beautiful. Here's an overview of each day project and the processes undertaken.
 
 ---
 
@@ -53,5 +53,11 @@ AIM: Demonstrate simple fundamentals of 3D (Blender) [Link to projects](https://
 
 AIM: Exploring unique materials (Blender) [Link to projects](https://github.com/RichieWallett/Unity-Demos/tree/main/Coffeecup)
 
+---
 
 
+### Overview
+
+![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Overview/00_Unity_Overview_Directions.png)
+
+AIM: To describe my visual & technical approaches [Link to projects](https://github.com/RichieWallett/Unity-Demos/tree/main/Overview)
