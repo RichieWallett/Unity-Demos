@@ -9,6 +9,8 @@ Here's an overview of the projects I'd like to create, methods to be used and th
 * https://www.pinterest.co.uk/graphicboutique/immersive-vrar/
 * https://www.pinterest.co.uk/graphicboutique/visualisation/
 
+---
+
 ![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Overview/01_Unity_Overview_Projects.png)
 ![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Overview/02_Unity_Overview_References.png)
 ![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Overview/03_Unity_Overview_Pinterest.png)
