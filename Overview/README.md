@@ -1,10 +1,8 @@
 ## Overview
 
-Here's an overview of the projects I'd like to create, packages to be used and the direction of how to get there.
+Here's an overview of the projects I'd like to create, methods to be used and the direction of how to get there.
 
----
-
-### Art Direction
+### Links
 
 * https://www.pinterest.co.uk/graphicboutique/games/)
 * https://www.pinterest.co.uk/graphicboutique/3d/
