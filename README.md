@@ -60,4 +60,4 @@ AIM: Exploring unique materials (Blender) [Link to projects](https://github.com/
 
 ![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Overview/00_Unity_Overview_Directions.png)
 
-AIM: To describe my visual & technical approaches [Link to projects](https://github.com/RichieWallett/Unity-Demos/tree/main/Overview)
+AIM: To describe my visual & technical approach. [Link to projects](https://github.com/RichieWallett/Unity-Demos/tree/main/Overview)
