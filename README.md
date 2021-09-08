@@ -1,4 +1,4 @@
-# Realtime-Demos
+# Real-time Daily Demos
 
 ### These are quick, daily demos. 
 The aim is to keep things lean, functional & beautiful. Here's an overview of each day project and the processes undertaken.
