@@ -20,6 +20,15 @@ AIM: To create a mesh, all materials and textures, from reference images only.  
 
 AIM: Examples of other projects. [Link to projects](https://github.com/RichieWallett/Unity-Demos/tree/main/Various)
 
+
+---
+
+### Noise Curls 
+
+![Link](Particles_Curl_01/Screenshots/04_Screenshot_Par-Cur_2021-09-07.png)
+
+AIM: To generate free flowing particle behaviours. [Link to project](https://github.com/RichieWallett/Unity-Demos/tree/main/Particles_Curl_01)
+
 ---
 
 ### Curling Particles 
