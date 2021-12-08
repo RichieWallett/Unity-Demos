@@ -5,6 +5,27 @@ The aim is to keep things lean, functional & beautiful. Here's an overview of ea
 
 ---
 
+### Curl Creatures 2B
+
+![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Particles_Curl_02B/Screenshots/Curl-Noise_02-01.png)
+
+AIM: To create brand textures.  [Link to project](https://github.com/RichieWallett/Unity-Demos/tree/main/Particles_Curl_02B)
+
+
+---
+
+
+### Curl Creatures 2C
+
+![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Particles_Curl_02C/Screenshots/Curl-Noise-02C_00_F79.png)
+
+AIM: To create brand textures.  [Link to project](https://github.com/RichieWallett/Unity-Demos/tree/main/Particles_Curl_02C)
+
+
+---
+
+
+
 ### Modeling Sound 
 
 ![Link](Adam-Audio/Renders/Screenshots/01_Screenshot_Adam_2020-11-17.png)
