@@ -30,7 +30,7 @@ AIM: To create brand textures.  [Link to project](https://github.com/RichieWalle
 
 ![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Architecture/Screenshots/00-Screenshot_2022-01-20.png)
 
-AIM: To create model visual from plan visuals, no BID.  [Link to project](https://github.com/RichieWallett/Unity-Demos/tree/main/Architecture)
+AIM: To create 3D model (Blender) from plan visuals only, no BID.  [Link to project](https://github.com/RichieWallett/Unity-Demos/tree/main/Architecture)
 
 
 ---
