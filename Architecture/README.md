@@ -1,4 +1,4 @@
-![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Architecture/Screenshots/00_Screenshot_2022-01-20.png)
+![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Architecture/Screenshots/00-Screenshot_2022-01-20.png)
 
 ## Process
 
