@@ -15,7 +15,7 @@ AIM: To create brand textures.  [Link to project](https://github.com/RichieWalle
 ---
 
 
-### Curl Creatures 2C
+### Principl Brand Curl Creatures 2C
 
 ![Link](https://github.com/RichieWallett/Unity-Demos/blob/main/Particles_Curl_02C/Screenshots/Curl-Noise-02D-Poster.png)
 
